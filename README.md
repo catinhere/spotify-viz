@@ -4,7 +4,9 @@ A web application where you can enter an artist and visualize the audio features
 
 ![spotify-viz gif](./spotify-viz-gif.gif)
 
-[https://spotifyviz.herokuapp.com/](https://spotifyviz.herokuapp.com/)
+|                                                           Warning ⚠️                                                          	|
+|:----------------------------------------------------------------------------------------------------------------------------:	|
+| Spotify has [deprecated the audio features API](https://developer.spotify.com/blog/2024-11-27-changes-to-the-web-api) as of November 27, 2024. Thus this project will no longer display the graph 🥲 |
 
 ## Running locally
 
